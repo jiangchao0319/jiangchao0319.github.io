@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+---
+layout: post
+title: Welcome
+---
 
-You can use the [editor on GitHub](https://github.com/jiangchao0319/jiangchao0319.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 对博客的理解
+----
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+每个攻城狮都应该有一个自己的技术博客，在网络中的文章帮助你节约了时间和提供帮助的同时，也想着自己写一些文章去分享知识，程序员应该学会分享。分享还有个好处是激发自s己对每个知识点的深入研究以及加深自己对知识点的理解和记忆。
 
-### Markdown
+本博客90%为原创，10%来自于网络文章
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## 博客中的技术类型
+---
 
-# Header 1
-## Header 2
-### Header 3
+![](assets/images/qrcode.jpg)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## 博客更新频率
+---
 
-**Bold** and _Italic_ and `Code` text
+一月一篇。
 
-[Link](url) and ![Image](src)
-```
+## 博客中示例程序代码下载：
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## 最后
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiangchao0319/jiangchao0319.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+这个博客通过 [Jekyll](http://jekyllrb.com/) 生成，博客的源码托管在[Github](https://github.com/jiangchao0319/jiangchao0319.github.io)上，如果你也想拥有一个一样的Blog，可以直接在github上fork这个项目，教程可以见[在Github上搭建Jekyll博客和创建主题](http://liuyanwei.jumppo.com/2014/02/12/how-to-deploy-a-blog-on-github-by-jekyll.html)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+如果有问题可以直接评论,或是给我发邮件。除此之外可以通过RRS订阅blog的更新，点击左下角两个图标即可。如果觉得对你有所帮助，就给我点个赞或是[github上follow](https://github.com/jiangchao0319/)。谢谢大家的支持。

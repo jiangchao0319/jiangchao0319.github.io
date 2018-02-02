@@ -1,1 +1,47 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: 蒋超的技术博客
+email: 295330224@qq.com
+description: > #蒋超的技术博客
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jiangchao.jumppo.com" # the base hostname & protocol for your site
+# url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+twitter_username: jiangchao0319@hotmail.com
+github_username:  jiangchao0319
+
+# Build settings
+#markdown: kramdown
+permalink: /:year/:month/:day/:title.html   #博文的固定链接
+paginate: 10                                #分页时每页博文数量
+author:                                     #自定义常亮
+  name: 蒋超
+  email: 295330224@qq.com
+  link: http://jiangchao.jumppo.com/
+  weibo: http://weibo.com/333
+  github: http://github.com/jiangchao0319
+title: 蒋超的技术博客                             #自定义常量
+
+# avatar头像及Favicon
+avatar: assets/images/avatar.jpg
+#favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+
+locals:                                     #自定义常量
+  tags: 标签
+  about: 关于
+active: 技术                                 #自定义常量
+subscribe_rss: /pages/atom.xml              #订阅地址
+markdown: kramdown                         #markdown解释器
+
+# google analytics 设置
+#ga:
+#  id:
+#  url:
+#
+
+# baidu analytics 设置
+
+ba:
+  src: //hm.baidu.com/hm.js?22d94317cfb9f9e0bb476228d9f
+
+# disqus 设置
+disqus:
+  shortname: jiangchao0319
