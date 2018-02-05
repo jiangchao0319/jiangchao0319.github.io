@@ -1,11 +1,11 @@
 <script>
     //百度站点统计,排除localhost
-    if(window.location.host.indexOf("localhost") ==-1 &&  window.location.host.indexOf("127.0.0.1") == -1){
+    if (window.location.host.indexOf("localhost") == -1 && window.location.host.indexOf("127.0.0.1") == -1) {
 
         var _hmt = _hmt || [];
-        (function() {
+        (function () {
             var hm = document.createElement("script");
-            hm.src = "{{ site.ba.src }}";
+            hm.src = "https://hm.baidu.com/hm.js?fe11529261a262847184dbb6b0a3c9cd";
             var s = document.getElementsByTagName("script")[0];
             s.parentNode.insertBefore(hm, s);
         })();
